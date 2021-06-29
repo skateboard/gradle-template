@@ -1,2 +1,2 @@
 # gradle-template
-a gradle project template i will use in future projects
+a gradle project template i will use for future projects
